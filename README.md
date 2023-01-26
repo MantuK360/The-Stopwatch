@@ -13,5 +13,5 @@ There is three buttons 'Start' ,'Stop' and 'Restart'
 
 ![stop1](https://user-images.githubusercontent.com/103558127/214954695-ee44e49c-b198-4f1a-9287-c7f606ceb64b.png)
 
-# -----------------------------------------------------------------------------
+# ------------------------------------------------------------
 ![stop2](https://user-images.githubusercontent.com/103558127/214954765-aae90a49-e13d-4c6c-a7ad-215149cfa377.png)
